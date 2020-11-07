@@ -2,6 +2,14 @@
 
 A todo Application
 
+      * Complete Your Daily Task by using this Application :)
+
+This Project Contain the userInterface(Scratch) and Backend
+
+Dependencies Used:
+    * Google Fonts
+    * sqflite
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
