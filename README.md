@@ -7,7 +7,10 @@ A todo Application
 This Project Contain the userInterface(Scratch) and Backend
 
 Dependencies Used:
+    
     * Google Fonts
+    
+    
     * sqflite
 
 ## Getting Started
